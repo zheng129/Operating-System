@@ -1,0 +1,271 @@
+Yixings-MBP:project2_Yixing_Zheng yixing$ g++ see_saw.cpp -o see_saw.out
+Yixings-MBP:project2_Yixing_Zheng yixing$ ./see_saw.out 
+Round: 1
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 2
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 3
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 4
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 5
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 6
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 7
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 8
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 9
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
+
+Round: 10
+Fred going up...
+Fred's Height: 2
+Wilma's Height: 6
+Fred's Height: 3
+Wilma's Height: 5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 5
+Wilma's Height: 3
+Fred's Height: 6
+Wilma's Height: 2
+Fred's Height: 7
+Wilma's Height: 1
+Fred going down...
+
+Wilma going up...
+Fred's Height: 5.5
+Wilma's Height: 2.5
+Fred's Height: 4
+Wilma's Height: 4
+Fred's Height: 2.5
+Wilma's Height: 5.5
+Fred's Height: 1
+Wilma's Height: 7
+Wilma going down...
