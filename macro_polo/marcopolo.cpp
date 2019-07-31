@@ -5,36 +5,37 @@
 
 using namespace std;
 
-void *Marco(void *ptr) 
+void *Marco(void *ptr)
 {
     char *message;
     message = (char *) ptr;
     //pthread_exit(NULL);
 
-    for (int i = 0; i < 9; ++i) 
+    for (int i = 0; i < 9; ++i)
     {
-         cout << "Marco" << endl;
+         cout << "Macro" << endl;
          //sleep 1 sec
          sleep(1);
-
      }
+     pthread_exit(NULL);
 }
 
-void *Polo(void *ptr) 
+void *Polo(void *ptr)
 {
     char *message;
     message = (char *) ptr;
     //pthread_exit(NULL);
 
-    
+
     for (int i = 0; i < 9; ++i) {
         cout << "Polo" << endl;
         //sleep 1 sec
         sleep(1);
-    } 
+    }
+    pthread_exit(NULL);
 }
 
-int main() 
+int main()
 {
     std::cout << "Welcome to Marco Polo" << std::endl;
 
